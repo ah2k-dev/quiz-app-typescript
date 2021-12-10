@@ -1,0 +1,43 @@
+.App {
+    box-shadow: 2px 2px 5px  ;
+    background-color: #efefef;
+    width: 60%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 10px 15px;
+}
+.selection-form{
+    text-align: center;
+    box-shadow: 0 0 3px;
+    padding: 10px;
+}
+.Question-cont{
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 0 0 3px;
+}
+.Question{
+    padding: 10px;
+}
+.Option{
+    padding: 10px;
+}
+.btn-submit{
+    margin: 360px;
+}
+.submit{
+    background-color: white;
+    width: 100px;
+    border-radius: 50px;
+}
+.result-cont{
+    box-shadow: 2px 2px 5px  ;
+    background-color: #efefef;
+    width: 60%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 10px 15px;
+    text-align: center;
+}
